@@ -1,0 +1,55 @@
+.index{
+    background-color:lightsalmon;
+}
+
+.title{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+.recipes{
+    text-align: center;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+img, .fp{
+    height: auto;
+    width: 400px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.rec{
+    background-color: paleturquoise;
+}
+
+h2, h3{
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+p{
+    margin-left: 40px;
+}
+
+.fp{
+    width: 300px;
+    padding-left: 30px;
+}
+
+.pfp{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
